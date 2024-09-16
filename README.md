@@ -1,2 +1,2 @@
 # Pruebas
-pruebas introductorias
+Este programa hace cosas maravillosas!
